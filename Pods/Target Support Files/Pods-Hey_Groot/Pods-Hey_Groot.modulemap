@@ -1,0 +1,6 @@
+framework module Pods_Hey_Groot {
+  umbrella header "Pods-Hey_Groot-umbrella.h"
+
+  export *
+  module * { export * }
+}
